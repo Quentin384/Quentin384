@@ -34,7 +34,7 @@ Développeur fullstack spécialisé en **JavaScript/TypeScript** (Angular, Node.
 ## 📫 Me contacter
 
 - ✉️ Email : [zampieri.quentin38@gmail.com]
-- 🔗 LinkedIn : [linkedin.com/in/quentin-zampieri]
+- 🔗 LinkedIn :(https://www.linkedin.com/in/quentin-zampieri/)
 
 ---
 
