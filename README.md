@@ -12,7 +12,7 @@ Développeur fullstack spécialisé en **JavaScript/TypeScript** (Angular, Node.
 
 ### 🚀 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 ### 🛢️ Bases de données
 
