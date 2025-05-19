@@ -8,7 +8,7 @@ Développeur fullstack spécialisé en **JavaScript/TypeScript** (Angular, Node.
 
 ### 🧩 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,react)](https://skillicons.dev)
 
 ### 🚀 Backend
 
