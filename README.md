@@ -1,4 +1,4 @@
-# 👨‍💻 Quentin | Développeur Fullstack JS / Java
+# 👨‍💻 Quentin | Développeur Fullstack Java/ Angular
 
 Développeur fullstack spécialisé en **JavaScript/TypeScript** (Angular, Node.js, React Native) et **Java Spring Boot**
 
