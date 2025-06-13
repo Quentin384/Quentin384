@@ -1,74 +1,190 @@
+<!-- ========================= -->
+<!-- 🖥️ BANNIÈRE “GLASSMORPHISM” -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="250" style="border-radius:10px"/>
+  <img src="assets/header.png" alt="Bannière Glassmorphism" width="100%"/>
 </p>
 
-<h1 align="center">👨‍💻 Quentin | Développeur Fullstack Java / Angular</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/Quentin384/Quentin384/build.yml?branch=main&label=Build&style=for-the-badge&logo=github" alt="Build Status" />
-  <img src="https://img.shields.io/codecov/c/github/Quentin384/Quentin384?style=for-the-badge" alt="Coverage" />
-  <img src="https://img.shields.io/github/followers/Quentin384?label=Followers&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/Quentin384/Quentin384?style=for-the-badge" alt="Dernier Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quentin384&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin384&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
+<!-- ========================= -->
+<!-- 🖥️ LOTTIE EN FOND (placeholder) -->
+<!-- ========================= -->
+<!--  
+<div align="center" style="position: relative; width:100%; height:300px;">
+  <lottie-player
+    src="lottie-background.json"
+    background="transparent"
+    speed="1"
+    style="width:100%; height:100%; position:absolute; top:0; left:0; z-index:-1;"
+    loop
+    autoplay>
+  </lottie-player>
+  <!-- Contenu par-dessus la Lottie -->
+</div>
+-->
 
 ---
 
-## 🧰 Stack Technique
+<div align="center">
 
-### Frontend
+# Quentin Zampieri  
+**Étudiant · Développeur Full-Stack Java & Angular**
 
-[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io) 
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=rgba(255,255,255,0.2))](https://github.com/Quentin384)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=rgba(255,255,255,0.2))](https://www.linkedin.com/in/quentin-zampieri/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&labelColor=rgba(255,255,255,0.2))](mailto:zampieri.quentin38@gmail.com)
 
-### Backend
-
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)  
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)  
-
-### Bases de données
-
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)  
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)  
-
-### DevOps & Outils
-
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)  
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)  
+</div>
 
 ---
 
-## 🔥 Présentation animée
+## 👤 À propos
 
-<p align="center">
-  <img src="https://quentin384.github.io/animations/svg/typing-effect.svg" alt="Typing Effect" width="350"/>
-</p>
-
----
-
-## 📈 Statistiques
-
-- **Projets actifs** : 8+  
-- **Contributions mensuelles** : régulières  
-- **Langages favoris** : Java, TypeScript, JavaScript  
+Je conçois et implémente des applications web alliant **robustesse back-end** (Java | Spring Boot) et **élégance front-end** (Angular).  
+Ma priorité : un code clair, maintenable et performant.
 
 ---
 
-## 📫 Contact
+## 🛠️ Stack Technique
+
+<details>
+<summary><strong>Front-end Web</strong></summary>
+
+- Angular  
+- TypeScript  
+- JavaScript  
+- HTML5  
+- CSS3  
+- DOM API  
+- localStorage  
+
+</details>
+
+<details>
+<summary><strong>Back-end Web</strong></summary>
+
+- Java  
+- Spring Boot  
+- JWT Authentication  
+
+</details>
+
+<details>
+<summary><strong>Applications Desktop</strong></summary>
+
+- Java SE  
+- Swing  
+
+</details>
+
+<details>
+<summary><strong>Base de données</strong></summary>
+
+- PostgreSQL  
+
+</details>
+
+<details>
+<summary><strong>DevOps & Outils</strong></summary>
+
+- Git  
+- GitHub Actions  
+- Docker  
+
+</details>
+
+---
+
+## 🚀 Projets Phares
+
+<details>
+<summary><strong>FRONTEND-GROUPSMAKER</strong> (Angular)</summary>
+
+- **Objectif** : interface réactive pour créer et gérer des groupes en temps réel  
+- **Tech** : Angular · TypeScript · RxJS · localStorage  
+- 🔗 https://github.com/Quentin384/FRONTEND-GROUPSMAKER  
+
+</details>
+
+<details>
+<summary><strong>BACKEND-GROUPSMAKER</strong></summary>
+
+- **Objectif** : API REST sécurisée (JWT) pour la gestion des groupes  
+- **Tech** : Java · Spring Boot · PostgreSQL  
+- 🔗 https://github.com/Quentin384/BACKEND-GROUPSMAKER  
+
+</details>
+
+<details>
+<summary><strong>Mini-ERP</strong></summary>
+
+- **Objectif** : ERP basique – gestion de stock, facturation, rapports  
+- **Tech** : Java SE  
+- 🔗 https://github.com/Quentin384/MINI-ERP  
+
+</details>
+
+<details>
+<summary><strong>MyTamagotchi</strong></summary>
+
+- **Objectif** : mini-jeu Tamagotchi, POO & DOM API  
+- **Tech** : JavaScript natif · HTML5 · CSS3 · localStorage  
+- 🔗 https://github.com/Quentin384/MyTamagochi  
+
+</details>
+
+<details>
+<summary><strong>Java-Shoot</strong></summary>
+
+- **Objectif** : simulateur de tir de projectile avec Swing  
+- **Tech** : Java SE · Swing  
+- 🔗 https://github.com/Quentin384/Java-Shoot  
+
+</details>
+
+---
+
+## 🎓 Formation & Expériences
+
+- **Mars 2025 – Mars 2026** : Concepteur Développeur Fullstack JAVA @ Simplon Grenoble  
+- **2024** : Stage Développeur Java / Microservices @ Entreprise X  
+- **Sept. 2020 – Juin 2022** : L1 & L2 Lettres Modernes & Histoire de l’art @ Université Grenoble Alpes  
+- **Sept. 2019 – Juin 2020** : L1 Droit @ Université Grenoble Alpes  
+
+---
+
+## 🏅 Certifications & Contributions
+
+<!-- Remplis avec tes certifications et contributions réelles -->
+
+- **Certification X** – Organisme, année  
+- **Certification Y** – Organisme, année  
+- **Open-source** : PR/issue sur [Projet A](url), [Projet B](url)
+
+---
+
+## 🌐 Langues
+
+- Français : langue maternelle  
+- Anglais : C1/C2  
+- Espagnol : A2  
+- Italien : A1  
+
+---
+
+## 🎮 Loisirs & Intérêts
+
+- 🎸 Guitariste électrique & acoustique  
+- 🏍️ Passionné de moto  
+- 🥊 Boxe anglaise  
+
+---
+
+## 📫 Contact & Réseaux
 
 - ✉️ [zampieri.quentin38@gmail.com](mailto:zampieri.quentin38@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/quentin-zampieri/)  
-- 🌐 [GitHub](https://github.com/Quentin384)  
+- 🐙 [GitHub](https://github.com/Quentin384)  
 
 ---
 
-> "Un bon code se relit comme un bon texte : simple, clair, et sans détour."
-
+> _« Un code clair se lit comme un texte soigné : précis, cohérent et sans ambiguïté. »_
