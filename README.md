@@ -60,8 +60,3 @@
   <a href="https://www.linkedin.com/in/quentin-zampieri/"><img src="https://img.shields.io/badge/linkedin-quentin--zampieri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/Quentin384/Quentin384/blob/output/github-contribution-grid-snake.svg" />
-</p>
