@@ -49,7 +49,7 @@
 ## 🔥 Présentation animée
 
 <p align="center">
-  <img src="https://quentin384.github.io/animations/typing-effect.svg" alt="Typing Effect" width="350"/>
+  <img src="https://quentin384.github.io/animations/svg/typing-effect.svg" alt="Typing Effect" width="350"/>
 </p>
 
 ---

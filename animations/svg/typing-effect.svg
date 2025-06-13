@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="50" viewBox="0 0 350 50">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 24px;
+      fill: #61dafb;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: .15em solid orange;
+      animation:
+        typing 4s steps(40, end),
+        blink-caret .75s step-end infinite;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 350px }
+    }
+    @keyframes blink-caret {
+      50% { border-color: transparent }
+    }
+  </style>
+  <text x="0" y="35" class="text">Développeur Fullstack Java / Angular</text>
+</svg>
