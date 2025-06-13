@@ -1,20 +1,10 @@
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quentin384&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <img src="./assets/banner.png" alt="Bannière Quentin" width="100%" />
 </p>
 
 <h1 align="center">Bonjour, moi c’est Quentin 👋</h1>
 <h3 align="center">Développeur Fullstack Java passionné par le design, l’architecture et l’UX fluide.</h3>
-
----
-
-## 🧊 Animation “Liquid Glass”
-
-<p align="center">
-  <a href="https://quentin384.github.io/Quentin384/assets/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Voir%20l'animation%20en%20direct-0A84FF?style=for-the-badge&logo=lottiefiles&logoColor=white" alt="Voir l’animation" />
-  </a>
-</p>
 
 ---
 
@@ -42,6 +32,16 @@
 | [Groupsmaker](https://github.com/Quentin384/groupsmaker) | Application de création de groupes équilibrés | Angular · Spring Boot |
 | [Mini-ERP](https://github.com/Quentin384/mini-erp-java) | Application desktop Java pour la gestion d’entreprise | Java · Swing · JDBC |
 | Autres... | Voir tous mes projets sur mon profil ! | 🚀 |
+
+---
+
+## 📈 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quentin384&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin384&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
